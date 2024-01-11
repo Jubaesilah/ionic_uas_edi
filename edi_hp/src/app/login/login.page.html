@@ -1,0 +1,17 @@
+<ion-content>
+  <img style="margin: auto; text-align: center; display: flex;justify-content: center; height: 100px; width: 100px; border-radius: 50%;" src="assets/Logo PMB.png" alt="">
+  
+      <ion-label position="floating">NPM</ion-label>
+      <ion-input type="text" required [(ngModel)]="npm"></ion-input>
+  
+  
+      <ion-label position="floating">Email</ion-label>
+      <ion-input type="email" required [(ngModel)]="email"></ion-input>
+  
+  <ion-row>
+      <ion-col>
+          <ion-button (click)="login()" type=" submit " color="danger" expand="block ">Log In
+          </ion-button>
+      </ion-col>
+  </ion-row>
+</ion-content>

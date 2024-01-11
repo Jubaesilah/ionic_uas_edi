@@ -1,0 +1,7 @@
+{
+  "name": "edi_hp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

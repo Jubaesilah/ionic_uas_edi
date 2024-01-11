@@ -1,0 +1,8 @@
+Nama	: Muhamad Jubaesilah
+NPM	: 12522027
+Prodi	: Teknik Informatika (A)
+UAS	: Platform Mobile
+
+
+
+Ket. Masukin NPM dan Email bebas di tampilan LOG IN	
